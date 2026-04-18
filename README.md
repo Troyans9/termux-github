@@ -1,3 +1,4 @@
+
 # Github for Termux (Android)
 Hello and welcome to my Github channel. I found the lack of any great Google Play(tm) implementations of git, including reliable `git push -u origin master` options, disturbing. So now I can use Termux instead. This repository will help you recreate my setup so you can begin doing your programming on a terminal with letters so small it hurts your brain today!
 
